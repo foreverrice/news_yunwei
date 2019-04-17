@@ -1,0 +1,13 @@
+<?php
+session_start();
+ini_set("display_errors","1");
+error_reporting(E_ALL);
+header("content-type:text/html;charset=utf-8");
+include_once('360_safe3.php');
+include_once('define.php');
+include_once('Db.php');
+include_once('conn.php');
+include_once('function.php');
+include_once('C.php');
+include_once('Page.php');
+?>

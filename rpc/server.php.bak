@@ -1,0 +1,15 @@
+<?php
+include_once("../ci_xmlrpc.php");
+
+//目前是针对给育儿百科内页的热门资讯用的
+function getNewsHot($method,$param){
+	$limit = isset($param[0])?intval($param[0]):0;
+	
+	$photosData = unserialize(file_get_contents(dirname(dirname(__FILE__)).'/wp-content/themes/news_v3/glbRightPhotosDatanew.cache'));
+	return $photosData;
+}
+
+$xmlrpc_server = new  xmlrpc_server();
+$xmlrpc_server->register_method("news.getNewsHot", "getNewsHot");
+$xmlrpc_server->call_method();
+?>

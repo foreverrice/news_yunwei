@@ -1,0 +1,12 @@
+.slider-box { position: relative; width:245px; height:290px; overflow:hidden; margin:0 auto; }
+.slider-box ul.items{ position:absolute; float:left; background:none; list-style:none; padding:0px; margin:0px; }
+.slider-box ul.items li{ float:left; background:none; list-style:none; padding:0px; margin:0px; }
+.slider-box ul.items li a{ float:left; line-height:normal !important; padding:0px !important; border:none; }
+.slider-box ul.items li a img{ margin:0px !important; padding:0px !important; display:block; border:none; }
+.slider-box div.tipsbg { position:absolute; z-index:99; bottom:0px; width:100%; height:47px; overflow:hidden; background-color:rgb(0, 0, 0); opacity: 0.3; filter: alpha(opacity=30);  }
+.slider-box div.tips{ position:absolute; z-index:100; bottom:0px; width:100%; height:47px; overflow:hidden; }
+.slider-box div.tips div.title{ height:25px; text-align:center; }
+.slider-box div.tips div.title a { color:#FFF; font-size:18px; font-family:"微软雅黑","黑体"; line-height:35px; font-weight:bold; text-decoration:none; }
+.slider-box div.tips div.nums{ height:22px; text-align:center; margin:0 auto; }
+.slider-box div.tips div.nums a{ display:inline-block; >float:left; width:8px; height:8px; background-color:#fdfefe; text-indent:-99999px; margin:8px 5px 0px 5px;}
+.slider-box div.tips div.nums a.active{ background-color:#F49000; }

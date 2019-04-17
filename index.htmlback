@@ -1,0 +1,756 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!--qindc-->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>
+育儿资讯_育儿网</title>
+<meta name="description" content="育儿网新闻频道为全球华人提供最新最快最详实的育儿资讯、热点新闻、育儿动态、图片新闻。" />
+<meta name="keywords" content="育儿新闻,母婴新闻,育儿动态" />
+<meta name="baidu-site-verification" content="50nDiWeLpQ" /><!-- RSS -->
+<link rel="alternate" type="application/rss+xml" title="育儿资讯 RSS Feed" href="http://news.ci123.com/feed" />
+<!-- RPC -->
+<link rel="pingback" href="http://news.ci123.com/xmlrpc.php" />
+<!-- styles -->
+<link type="text/css" rel="stylesheet" href="http://news.ci123.com/styles/basic.css" />
+<link type="text/css" rel="stylesheet" href="http://news.ci123.com/styles/styles_v3.css?t=20151106" />
+<link href="http://file2.ci123.com/ast/loginface/style5.css" rel="stylesheet" type="text/css" />
+
+<!-- JS -->
+<script src="http://news.ci123.com/js/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="http://news.ci123.com/js/global.js" type="text/javascript"></script>
+<script src="http://file2.ci123.com/ast/loginface/cookielogin10.js" language="javascript"></script>
+<script type="text/javascript" language="JavaScript" src="http://user.ci123.com/js/auth.js"></script>
+
+<script language="javascript" type="text/javascript" src="http://shop.ci123.com/open/ui/scrolltotop/jquery.scrolltotop.js"></script>
+<link rel="stylesheet" type="text/css" href="http://shop.ci123.com/open/ui/scrolltotop/jquery.scrolltotop.css">
+<script type="text/javascript" language="JavaScript" src="http://tc.ci123.com/js/tcjs.php"></script>
+
+</head>
+<body>
+<div style="margin:0 auto;text-align:center">
+<script type="text/javascript">LoadAdJs(60);</script>
+</div>
+<div id="global_nav">
+	<div id="nav">
+		<div class="ci123_logo">
+				<div class="ntop">
+	<div class="logo">
+	<span onmouseover="showcity2(1);" onmouseout="showcity2(0);" id="morecity">
+		<span class="cmore">全国<img src="http://news.ci123.com/styles/images/more_city.gif" width="7" height="7" /></span>
+		<div id="citylist2" style="display:none;"><div class="hotcity">热门城市：<a href="http://beijing.ci123.com/" target="_blank">北京站</a><a href="http://nanjing.ci123.com/" target="_blank">南京站</a><a href="http://shanghai.ci123.com/" target="_blank">上海站</a><a href="http://guangzhou.ci123.com/" target="_blank">广州站</a></div><div class="clist"><div class="clist1"><ul><li><span class="a">B</span> - <a href="http://baoding.ci123.com/" target="_blank">保定</a></li><li><span class="a">C</span> - <a href="http://changchun.ci123.com/" target="_blank">长春</a><a href="http://changsha.ci123.com/" target="_blank">长沙</a><a href="http://chengdu.ci123.com/" target="_blank">成都</a><a href="http://chongqing.ci123.com/" target="_blank">重庆</a><a href="http://changzhou.ci123.com/" target="_blank">常州</a><a href="http://cangzhou.ci123.com/" target="_blank">沧州</a></li><li><span class="a">D</span> - <a href="http://dalian.ci123.com/" target="_blank">大连</a><a href="http://dongguan.ci123.com/" target="_blank">东莞</a></li><li><span class="a">F</span> - <a href="http://foshan.ci123.com/" target="_blank">佛山</a><a href="http://fuzhou.ci123.com/" target="_blank">福州</a></li><li><span class="a">G</span> - <a href="http://guiyang.ci123.com/" target="_blank">贵阳</a></li><li><span class="a">H</span> - <a href="http://haerbin.ci123.com/" target="_blank">哈尔滨</a><a href="http://hangzhou.ci123.com/" target="_blank">杭州</a><a href="http://hefei.ci123.com/" target="_blank">合肥</a><a href="http://handan.ci123.com/" target="_blank">邯郸</a><a href="http://hengshui.ci123.com/" target="_blank">衡水</a><br><a href="http://huhehaote.ci123.com/" target="_blank" class="ml_25">呼和浩特</a><a href="http://haikou.ci123.com/" target="_blank">海口</a></li><li><span class="a">J</span> - <a href="http://jiaxing.ci123.com/" target="_blank">嘉兴</a><a href="http://jinan.ci123.com/" target="_blank">济南</a><a href="http://jinhua.ci123.com/" target="_blank">金华</a><a href="http://jining.ci123.com/" target="_blank">济宁</a></li><li><span class="a">K</span> - <a href="http://kunming.ci123.com/" target="_blank">昆明</a></li></ul></div><div class="clist2"><ul><li><span class="a">L</span> - <a href="http://lanzhou.ci123.com/" target="_blank">兰州</a><a href="http://langfang.ci123.com/" target="_blank">廊坊</a><a href="http://linyi.ci123.com/" target="_blank">临沂</a><a href="http://lasa.ci123.com/" target="_blank">拉萨</a></li><li><span class="a">N</span> - <a href="http://nanchang.ci123.com/" target="_blank">南昌</a><a href="http://nanning.ci123.com/" target="_blank">南宁</a><a href="http://nantong.ci123.com/" target="_blank">南通</a><a href="http://ningbo.ci123.com/" target="_blank">宁波</a></li><li><span class="a">Q</span> - <a href="http://qingdao.ci123.com/" target="_blank">青岛</a><a href="http://quanzhou.ci123.com/" target="_blank">泉州</a><a href="http://qhd.ci123.com/" target="_blank">秦皇岛</a></li><li><span class="a">S</span> - <a href="http://shenyang.ci123.com/" target="_blank">沈阳</a><a href="http://shenzhen.ci123.com/" target="_blank">深圳</a><a href="http://sjz.ci123.com/" target="_blank">石家庄</a><a href="http://sz.ci123.com/" target="_blank">苏州</a></li><li><span class="a">T</span> - <a href="http://taiyuan.ci123.com/" target="_blank">太原</a><a href="http://taizhou.ci123.com/" target="_blank">台州</a><a href="http://tangshan.ci123.com/" target="_blank">唐山</a><a href="http://tianjin.ci123.com/" target="_blank">天津</a></li><li><span class="a">W</span> - <a href="http://wenzhou.ci123.com/" target="_blank">温州</a><a href="http://wuhan.ci123.com/" target="_blank">武汉</a><a href="http://wuxi.ci123.com/" target="_blank">无锡</a><a href="http://weifang.ci123.com/" target="_blank">潍坊</a></li><li><span class="a">X</span> - <a href="http://xiamen.ci123.com/" target="_blank">厦门</a><a href="http://xian.ci123.com/" target="_blank">西安</a><a href="http://xuzhou.ci123.com/" target="_blank">徐州</a><a href="http://xingtai.ci123.com/" target="_blank">邢台</a></li><li><span class="a">Y</span> - <a href="http://yantai.ci123.com/" target="_blank">烟台</a></li><li><span class="a">Z</span> - <a href="http://zhengzhou.ci123.com/" target="_blank">郑州</a><a href="http://zibo.ci123.com/" target="_blank">淄博</a><a href="http://zhangjiakou.ci123.com/" target="_blank">张家口</a></li></ul></div></div></div>
+	</span>
+	<a href="http://www.ci123.com/" target="_self"><img src="http://file2.ci123.com/logo2.png" width="157" height="71" /></a>
+<script type="text/javascript">
+function showcity2(n) {
+if(n==1) {
+	if(document.getElementById("citylist2").innerHTML.length>0) {
+		document.getElementById("citylist2").style.display='block';
+	}
+} else {
+	document.getElementById("citylist2").style.display='none';
+}
+}
+</script>
+	</div><!--/logo-->
+	<div class="ad1">
+		<a href="http://shiyong.ci123.com/leyun/index.php" target="_blank"><img src="http://news.ci123.com/images/ad.jpg" width="101" height="71" /></a>
+	</div>
+	<div class="search">
+		<form method="get" action="http://news.ci123.com/index.php">
+			<input type="text" name="s" class="txt"  onblur="if(this.value==''){this.value='请输入搜索关键词...';}" onfocus="if(this.value=='请输入搜索关键词...'){this.value='';}" value="请输入搜索关键词..." />
+			<input type="submit" value="" class="searchbtn" />
+		</form>
+	</div>
+	<div class="nav_tool">
+		<ul>
+			<li class="a1">地方分站</li>
+			<li class="a2"><a href="http://beijing.ci123.com/">北京站</a> <a href="http://shanghai.ci123.com/">上海站</a> <a href="http://nanjing.ci123.com/">南京站</a></li>
+		</ul>
+	</div>
+</div><!--ntop-->
+			<div id="navb">
+	<div class="navb_block">
+		<ul>
+			<li class="lg"><a title="育儿商城" href="http://diy.ci123.com/">育儿商城</a></li>
+			<li class="s">|</li>
+			<li><a title="幼儿园" href="http://ping.ci123.com/">幼儿园</a></li>
+			<li class="s">|</li>
+			<li><a title="城市伙伴" href="http://city.ci123.com/happycity/">城市伙伴</a></li>
+			<li class="s">|</li>
+			<li><a title="儿童城" href="http://cblog.ci123.com/">儿童城</a></li>
+			<li class="s">|</li>
+			<li><a title="汉博网" href="http://hanbo.ci123.com/">汉博网</a></li>
+			<li class="s">|</li>
+			<li><a title="育儿资讯" href="http://news.ci123.com/">育儿资讯</a></li>
+			<li class="s">|</li>
+			<li><a title="公益频道" href="http://jiguang.ci123.com/">公益频道</a></li>
+			<li class="s">|</li>
+			<li><a title="小脚印" href="http://foot.ci123.com/">小脚印</a></li>
+		</ul>
+		<dl class="link">
+			<dd class="ci on"><a href="http://www.ci123.com/">育儿网</a></dd>
+			<dd class="gou"><a href="http://shop.ci123.com/" target="_blank">妈妈购</a></dd>
+			<dd class="app"><a href="http://m.ci123.com/apps/preg.html" target="_blank">手机应用</a></dd>
+		</dl>
+		<script type="text/javascript">
+		$(".link .gou a").click(function(e){
+			e.preventDefault();
+			window.open($(this).attr('href') + '?lps=1369117390.19.43.2');
+		});
+		</script>
+		</dl>
+		<div class="login">
+		
+			<div class="tnservice" id="islogin" style="display:none;">
+				<div id="topservice" class="more off">
+					<div><a class="nav-sv2" href="javascript:void(0);" target="_self"><img src="http://i.ci123.com/avatar/no.png" id="lg_avatar" width="20" height="20" />&nbsp;个人中心<s></s></a></div>
+					<div class="topuser">
+						<dl>
+							<dd><a href="http://user.ci123.com/account/EditUserInfo/detail" target="_blank">我的资料</a></dd>
+							<dd><a href="http://user.ci123.com/" target="_blank">用户中心</a></dd>
+							<dd><a href="http://user.ci123.com/inbox.php" target="_blank">查看邮件</a></dd>
+							<dd><a href="http://user.ci123.com/account/message/" target="_blank">系统消息</a></dd>
+							<dd><a href="http://user.ci123.com/coin/" target="_blank">我的积分</a></dd>
+							<dd><a href="http://user.ci123.com/logout.php?back_url=http://news.ci123.com">退出登录</a></dd>
+						</dl>
+					</div>
+				</div>
+			</div>
+			
+			<div class="loginface" id="notlogin"><a onclick="needlogin();" href="javascript:void(0);">登录</a> <a href="http://user.ci123.com/account/NewAccount/?back_url=http://news.ci123.com/" target="_blank">注册</a></div>
+			
+			<script type="text/javascript">
+			jQuery("#topservice").hover(
+				function(){
+					jQuery(this).removeClass("off");
+					jQuery(this).addClass("on");
+				},function(){
+					jQuery(this).removeClass("on");
+					jQuery(this).addClass("off");
+				}
+			);
+			</script>
+			<script type="text/javascript">
+			function initLogin() {
+				var ciuser = getUserInfo();
+				if (ciuser != null && ciuser.user_id > 0) {
+					//document.getElementById("lg_nickname").innerHTML = ciuser.nickname;
+					document.getElementById('lg_avatar').src = ciuser.avatar;
+					document.getElementById('notlogin').style.display = 'none';
+					document.getElementById('islogin').style.display = '';
+		}	
+	}
+	$(document).ready(function() {
+		initLogin();
+	});
+	</script>
+		</div><!--/login-->
+	</div>
+</div>
+			<div id="nav_small">
+	<ul>
+		<li class="l"><a href="http://www.ci123.com/">首页</a></li>
+		<li class="s">|</li>
+		<li class="on"><a href="http://news.ci123.com/">育儿资讯</a></li>
+		<li class="s">|</li>
+		<li><a href="http://www.ci123.com/index1.html">父母学堂</a></li>
+		<li class="s">|</li>
+		<li><a href="http://bbs.ci123.com/">育儿论坛</a></li>
+		<li class="s">|</li>
+		<li><a href="http://baobao.ci123.com/">宝宝主页</a></li>
+		<li class="s">|</li>
+		<li><a href="http://blog.ci123.com/">育儿博客</a></li>
+		<li class="s">|</li>
+		<li><a href="http://ask.ci123.com/">育儿问答</a></li>
+		<li class="s">|</li>
+		<li><a href="http://rs.ci123.com/">亲子资源</a></li>
+		<li class="s">|</li>
+		<li><a href="http://www.ci123.com/baodian">育儿宝典</a></li>
+		<li class="s">|</li>
+		<li><a href="http://qq.ci123.com/">育儿圈圈</a></li>
+		<li class="s">|</li>
+		<li><a href="http://info.ci123.com/brand">母婴产品</a></li>
+		<li class="s">|</li>
+		<li><a href="http://kaixintree.ci123.com/index.php" title="开心俱乐部">开心俱乐部</a></li>
+	</ul>
+</div>
+
+
+<div id="nav_menu3">
+	<s class="l"></s>
+	<ul>
+		<li><a href="http://news.ci123.com/" class="on">资讯首页</a></li>
+		<li><a href="http://news.ci123.com/category/event" >事件播报</a></li>
+		<li><a href="http://news.ci123.com/category/news" >育儿动态</a></li>
+		<li><a href="http://news.ci123.com/category/poto" >图片新闻</a></li>
+		<li><a href="http://news.ci123.com/category/video" >视频报道</a></li>
+	</ul>
+	<s class="r"></s>
+</div>
+		</div><!--/ci123_logo-->
+	</div><!--/nav-->
+</div>
+
+<div class="index">
+	<div class="clearfix mgt10">
+		<div class="knowledge clearfix">
+				<div class="fleft">
+				<!--<a class="b-img" href="http://news.ci123.com/article/45989.html" title="子宫中的垃圾 你绝对没听过"><img src="http://news.ci123.com/index.php/uploads/20140910/upload_T565S_afc0b0c367e6fd96" width="275" height="288" /></a>
+				<div class="teach">
+					<h3><a href="http://news.ci123.com/article/45989.html" title="子宫中的垃圾 你绝对没听过">子宫中的垃圾 你绝对没听过</a></h3>
+					<p>你知道吗，随着时间的推移子宫里逐渐堆积着各种垃圾，它们正一步步摧毁着女性的健康。</p>
+				</div>--><!--/teach-->
+		<style type="text/css">
+.fleft{
+	position:relative;
+}
+.fleft .slides{
+	width:275px;
+	height:374px;
+	overflow:hidden;
+	position:relative;
+}
+.fleft .slides .slide-pic li{
+	float:left;
+	_display:inline;
+	width:275px;
+}
+.fleft .slide-li {
+    bottom: 8px;
+    cursor: pointer;
+    position:absolute;
+    height: 17px;
+    text-align: center;
+    width: 175px;
+    margin-left:80px;
+    z-index:100;
+}
+.fleft .fi_btn {
+    cursor: pointer;
+    display: inline-block;
+    height: 48px;
+    overflow: hidden;
+    position: absolute;
+    top: 140px;
+    width: 36px;
+    z-index:1;
+}
+.fleft .l {
+    left: 0;
+}
+.fleft .r {
+    right: 0;
+}
+.fleft .l_view{
+    background: url("/images/icon_left.png") no-repeat 0 0;
+    _background: url("/images/icon_left_8bit.png") no-repeat 0 0;
+}
+.fleft .bg_view{
+    display: block;
+    height: 48px;
+    width: 36px;
+}
+.fleft .r_view {
+    background: url("/images/icon_right.png") no-repeat 0 0;
+    _background: url("/images/icon_right_8bit.png") no-repeat 0 0;
+}
+.fleft a {
+    color: #515151;
+}
+.fleft .slide-pic li{
+	position:relative;
+	height:374px;
+	overflow:hidden;
+}
+.fleft .slide-pic li .bgtext{
+	height:58px;
+	width:275px;
+	background-color:#000;
+	-moz-opacity:.65;
+	opacity:.65;
+	filter:alpha(opacity=65);
+	z-index:1;
+	position:absolute;
+	left:0;
+	bottom:0;
+}
+.fleft .slide-pic li .title{
+	width:275px;
+	text-align:center;
+	font-size:18px;
+	color:#fff;
+	position:absolute;
+	left:0;
+	bottom:0;
+	height:50px;
+	z-index:10;
+}
+.fleft .slide-pic li .title a{
+	color:#fff;	
+	white-space:nowrap;
+}
+.slide-li li{
+    float:left;
+    _display:inline;
+    background: url("/images/icon_noton.png") no-repeat 0 0;
+    _background: url("/images/icon_noton_8bit.png") no-repeat 0 0;
+    cursor: pointer;
+    font-size: 0;
+    height: 17px;
+    margin: 0 3px;
+    overflow: hidden;
+    width: 17px;
+}
+.slide-li li.cur {
+    background: url("/images/icon_on.png") no-repeat 0 0;
+    _background: url("/images/icon_on_8bit.png") no-repeat 0 0;
+    font-size: 0;
+    line-height: 500px;
+}
+.op li{
+    float:left;
+    _display:inline;
+    background: url("/images/icon_noton.png") no-repeat  0 0;
+    _background: url("/images/icon_noton_8bit.png") no-repeat 0 0;
+    cursor: pointer;
+    font-size: 0;
+    height: 17px;
+    margin: 0 3px;
+    overflow: hidden;
+    width: 17px;
+}
+.op li.cur {
+    background: url("/images/icon_on.png") no-repeat 0 0;
+    _background: url("/images/icon_on_8bit.png") no-repeat 0 0;
+    font-size: 0;
+    line-height: 500px;
+}
+</style>
+<div class="l fi_btn">
+	<a href="javascript:void(0);"  class="l_view bg_view" target="_self"></a>
+</div>
+<div class="slides">
+	<ul class="slide-pic center_view" width="10000px;right:275px;position:relative;">
+								<li class="cur" style="display:list-item;">
+                                    <a href="http://news.ci123.com/article/85571.html" target="_blank" style="white-space:nowrap;"><img width="275" height="374" alt="育网辟谣 女人常吃猪蹄能美颜" src="http://news.ci123.com/uploads/20160229/upload_uYzlx_ef4da6ae0dd9ade5"></a>
+                                    <div class="bgtext"></div>
+                                   <div class="title"><a href="http://news.ci123.com/article/85571.html">育网辟谣 女人常吃猪蹄能美颜</a></div>
+                        </li>
+											<li class="cur" style="display:none;">
+                                    <a href="http://news.ci123.com/article/85697.html" target="_blank" style="white-space:nowrap;"><img width="275" height="374" alt="怀胎十月 教你怎么吃出健康" src="http://news.ci123.com/uploads/20160229/upload_Zy7za_464e66d9d39710a8"></a>
+                                    <div class="bgtext"></div>
+                                   <div class="title"><a href="http://news.ci123.com/article/85697.html">怀胎十月 教你怎么吃出健康</a></div>
+                        </li>
+											<li class="cur" style="display:none;">
+                                    <a href="http://news.ci123.com/article/85693.html" target="_blank" style="white-space:nowrap;"><img width="275" height="374" alt="别再这么做啦！7个动作很伤娃" src="http://news.ci123.com/uploads/20160229/upload_2hIeg_6b5dfbfcbff8fdf0"></a>
+                                    <div class="bgtext"></div>
+                                   <div class="title"><a href="http://news.ci123.com/article/85693.html">别再这么做啦！7个动作很伤娃</a></div>
+                        </li>
+											<li class="cur" style="display:none;">
+                                    <a href="http://news.ci123.com/article/85443.html" target="_blank" style="white-space:nowrap;"><img width="275" height="374" alt="关于奶瓶喂养 聚焦四问题" src="http://news.ci123.com/uploads/20160226/upload_v8rQz_6f5b49028a3d5a30"></a>
+                                    <div class="bgtext"></div>
+                                   <div class="title"><a href="http://news.ci123.com/article/85443.html">关于奶瓶喂养 聚焦四问题</a></div>
+                        </li>
+											<li class="cur" style="display:none;">
+                                    <a href="http://news.ci123.com/article/85703.html" target="_blank" style="white-space:nowrap;"><img width="275" height="374" alt="正月宝宝不宜剪头 你真信了？" src="http://news.ci123.com/uploads/20160229/upload_23RkU_f75482a31bc53150"></a>
+                                    <div class="bgtext"></div>
+                                   <div class="title"><a href="http://news.ci123.com/article/85703.html">正月宝宝不宜剪头 你真信了？</a></div>
+                        </li>
+						</ul>
+	<ul class="slide-li op">
+                                <li class="cur"></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                            </ul>
+                            <ul class="slide-txt slide-li">
+                                <li class="cur"></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                                <li class=""></li>
+                            </ul>
+	
+</div>
+<div class="r fi_btn">
+	<a href="javascript:void(0);"  class="r_view bg_view" target="_self"></a>
+</div>
+<script type="text/javascript" src="/js/slide.js"></script>
+
+	</div><!--/fleft-->
+	
+	<div class="fright">
+				<dl class="nbd">
+					<dt><h3><a  href="http://news.ci123.com/article/85416.html" title="BB睡觉为何总蹬腿">BB睡觉为何总蹬腿</a></h3></dt>
+										<dd>▪ <a href="http://news.ci123.com/article/84827.html" title="BB高热捂汗致抽风">BB高热捂汗致抽风</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85220.html" title="别用手机糊弄孩子">别用手机糊弄孩子</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85305.html" title="细数那些实用的孕期补品">细数那些实用的孕期补品</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85434.html" title="挑吸奶器 记住四大点">挑吸奶器 记住四大点</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85405.html" title="BB不吃奶瓶？安利几个妙招">BB不吃奶瓶？安利几个妙招</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85451.html" title="答应宝宝 雨季在家这么玩">答应宝宝 雨季在家这么玩</a></dd>
+									</dl>
+	</div><!--/fright-->
+			<div class="fright">
+				<dl>
+					<dt><h3><a href="http://news.ci123.com/article/85703.html" title="正月宝宝不宜剪头 你真信了？">正月宝宝不宜剪头 你真信了？</a></h3></dt>
+										<dd>▪ <a href="http://news.ci123.com/article/80803.html" title="喂娃吃鱼胆竟肾衰">喂娃吃鱼胆竟肾衰</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/84959.html" title="婆婆买凶杀媳妇">婆婆买凶杀媳妇</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85554.html" title="这样教孩子 其实在坑他">这样教孩子 其实在坑他</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85602.html" title="《爸爸去哪儿》被叫停">《爸爸去哪儿》被叫停</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/84863.html" title="和娃这么说话 可培养情商">和娃这么说话 可培养情商</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85217.html" title="葡萄胎不得了 带你深度了解">葡萄胎不得了 带你深度了解</a></dd>
+									</dl>
+			</div><!--/fright-->
+			<div class="fright">
+				<dl>
+					<dt><h3><a href="http://news.ci123.com/article/85108.html" title="给娃洗澡洗出感染 囟门真心别乱碰">给娃洗澡洗出感染 囟门真心别乱碰</a></h3></dt>
+										<dd>▪ <a href="http://news.ci123.com/article/85229.html" title="宝宝穿衣六步走">宝宝穿衣六步走</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/83950.html" title="旧电池炸翻女童嘴">旧电池炸翻女童嘴</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85207.html" title="宝宝喝奶的“七不要”">宝宝喝奶的“七不要”</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85470.html" title="手指蜕皮 为啥找上BB">手指蜕皮 为啥找上BB</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85302.html" title="孩子的脏衣物 你真会洗吗">孩子的脏衣物 你真会洗吗</a></dd>
+										<dd>▪ <a href="http://news.ci123.com/article/85300.html" title="孕期馋海鲜 七要诀快收藏">孕期馋海鲜 七要诀快收藏</a></dd>
+									</dl>
+			</div><!--/fright--> 
+
+<script type="text/javascript">
+	$(function() {
+		
+	$("#fright0").addClass("nbd");
+
+
+		});
+</script>
+		</div>
+		<div class="view" id="yuershidian">
+			<div class="time" id="yuerqishu" title="180">第180期</div>
+<div class="why">
+	<div><a href="http://www.ci123.com/special/wenxiong/" target="_blank" title="完美“胸器” 需要更好的容器"><img src="http://news.ci123.com/uploads/20160229/upload_TPabn_c8aa2965f973035b" width="248" height="128" /></a></div>
+	<h4><a href="http://www.ci123.com/special/wenxiong/" title="完美“胸器” 需要更好的容器"  target="_blank" >完美“胸器” 需要更好的容器</a></h4>
+	<p>你还在羡慕别人的“凶器”吗？你还在嫌弃自己的胸小……<a href="http://www.ci123.com/special/wenxiong/" title="完美“胸器” 需要更好的容器" target="_blank">详细&gt;&gt;</a></p>
+	<h5>你为你的胸部选对“容器”了吗？</h5>
+	<div class="topic">
+		<ul>
+			<li class="b">0</li>
+			<li id="toupiaoA"  style="cursor:pointer" qishu="180">是</li>
+		</ul> 
+		<ul>
+			<li class="r">0</li>
+			<li class="toupiaoB"  style="cursor:pointer">否</li>
+		</ul>
+	</div><!--/topic-->
+</div><!--/why-->
+<script type="text/javascript">
+	$(function() { 	
+	
+		var id=$("#toupiaoA").attr('qishu');
+		
+		$("#toupiaoA").click(function(){
+		$.ajax({
+				type: "POST",
+				url: "http://news.ci123.com/wp-content/themes/news_v3/toupiaoajax.php?rnd=" + Math.random(), 
+				data: {id:id},
+				dataType: "JSON",
+				success:function(oJ)
+			{
+				$(".topic .b").text(oJ.num1);
+				
+			}
+		
+		
+		});
+	});
+		
+		$(".toupiaoB").click(function(){
+		
+		$.ajax({
+				type: "POST",
+				url: "http://news.ci123.com/wp-content/themes/news_v3/toupiaoajaxb.php?rnd=" + Math.random(), 
+				data: {id:id},
+				dataType: "JSON",
+				success:function(oJ)
+			{
+				
+				$(".topic .r").text(oJ.num2);
+				
+			}
+		
+		
+		});
+	});
+  });
+
+</script>
+		</div><!--/view-->
+	</div>
+	<script type="text/javascript" language="JavaScript" src="http://tc.ci123.com/js/tcjs.php"></script>
+	<div style="margin-bottom:10px;">
+		<script type="text/javascript">LoadAdJs(248);</script>
+	</div>
+	<div class="total">
+		<div class="left">
+			<div class="olmother">
+	<div class="fl">
+		<dl>
+			<dt class="clearfix"> 
+				<div class="l">
+					<h4>
+						<a href="http://news.ci123.com/article/tag/业界快讯">业界快讯</a>
+					</h4>
+
+						<a class="groupimg"  href="http://news.ci123.com/article/85545.html" title="有娃后你却变得讨厌">
+							<img src="http://news.ci123.com/uploads/20160229/upload_GJ6ic_3de1224e16b9eb44" width="80" height="80" />
+						</a>
+				</div>
+				<div class="r">
+					<h3>
+						<a href="http://news.ci123.com/article/85545.html" title="有娃后你却变得讨厌" >有娃后你却变得讨厌</a>
+					</h3>
+					<p>是不是做了妈以后，你们都离知书达理，端庄美丽，温文尔雅，楚楚动人等词语越来越远了？女人，原本多么可爱动人，可生了娃后会变这样？</p>
+				</div>
+			</dt>
+			<dd>
+				<a href="http://news.ci123.com/article/80847.html" title="育儿“拦路虎”之邻居大妈">育儿“拦路虎”之邻居大妈</a>
+			</dd>
+			<dd>
+				<a href="http://news.ci123.com/article/84269.html" title="小贝喜爱的婴儿背带 曾是穷人象征">小贝喜爱的婴儿背带 曾是穷人象征</a>
+			</dd>
+		</dl>
+		<dl>
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/国外新闻">国外新闻</a></h4>
+					<a class="groupimg" href="http://news.ci123.com/article/85567.html" title="暖！老爸陪女儿扮英雄"><img src="http://news.ci123.com/uploads/20160226/upload_vFFGi_a85e63278d24f6af" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85567.html" title="暖！老爸陪女儿扮英雄">暖！老爸陪女儿扮英雄</a></h3>
+					<p>英国一男子为鼓励女儿勇敢做自己，扮成“超人”形象护送“蝙蝠侠”女儿去上学。父女俩扮成英雄上学的照片被人拍下来后，迅速在网络走红。</p>
+				</div>
+			</dt>
+			<dd><a href="http://news.ci123.com/article/85430.html" title="麻麻当众喂奶 只为诠释哺乳无罪">麻麻当众喂奶 只为诠释哺乳无罪</a></dd>
+			<dd><a href="http://news.ci123.com/article/85315.html" title="法国元老级避孕套网上热卖 约四千元">法国元老级避孕套网上热卖 约四千元</a></dd>
+		</dl>
+		<dl>
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/奇事异闻">奇事异闻</a></h4>
+					<a class="groupimg" href="http://news.ci123.com/article/85661.html" title="埃及16月幼儿被控谋杀"><img src="http://news.ci123.com/uploads/20160229/upload_fWVRP_bb664542b2fa1ffd" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85661.html" title="埃及16月幼儿被控谋杀">埃及16月幼儿被控谋杀</a></h3>
+					<p>埃及一名年仅3岁的小男孩，在本月16日被该国的军事法庭判为有罪，他被指控在去年1月份的示威活动中，和其他115名示威者打死了3个人。</p>
+				</div>
+			</dt>
+	
+				<dd><a href="http://news.ci123.com/article/85624.html" title="女子生娃后 在医院休息被强奸">女子生娃后 在医院休息被强奸</a></dd>
+				<dd><a href="http://news.ci123.com/article/85243.html" title="就是任性！腹中五个月大胎儿爱打脸">就是任性！腹中五个月大胎儿爱打脸</a></dd>
+	
+		</dl>
+		<dl class="npd">
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/报告解读">报告解读</a></h4>
+					<a class="groupimg" href="http://news.ci123.com/article/85395.html" title="父母韶一点宝宝更能说"><img src="http://news.ci123.com/uploads/20160226/upload_xRhs3_766b451af5d732f9" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85395.html" title="父母韶一点宝宝更能说">父母韶一点宝宝更能说</a></h3>
+					<p>日前，国外一项新的研究表明，在早期成长阶段，特别是不满18个月的早产儿，每天与其进行越多的对话，越能激发以及提升他的语言技能。</p>
+				</div>
+			</dt>
+
+				<dd><a href="http://news.ci123.com/article/85329.html" title="秃枕＝缺钙？你真的不懂">秃枕＝缺钙？你真的不懂</a></dd>
+				<dd><a href="http://news.ci123.com/article/85427.html" title="最新发现：BB使用抗生素或致日后肥胖">最新发现：BB使用抗生素或致日后肥胖</a></dd>
+
+		</dl>
+	</div><!--/fl-->
+	<div class="fl bd">
+		<dl>
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/儿童健康">儿童健康</a></h4>
+					<a  class="groupimg"  href="http://news.ci123.com/article/85573.html" title="宝贝生病要慎用抗菌药"><img src="http://news.ci123.com/uploads/20160226/upload_JFzR1_a56a9f01ba3db72e" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85573.html" title="宝贝生病要慎用抗菌药">宝贝生病要慎用抗菌药</a></h3>
+					<p>在孩子生病时，不少家长会给孩子使用消炎药、抗菌药等药物，帮助其缓解病情。但是家长们需要注意，给孩子使用的抗菌药要慎重，不可滥用。</p>
+				</div>
+			</dt>
+
+				<dd><a href="http://news.ci123.com/article/85459.html" title="宝宝睡觉ing 别忘了监控">宝宝睡觉ing 别忘了监控</a></dd>
+				<dd><a href="http://news.ci123.com/article/85234.html" title="抓住3诀窍 Hold住小儿发烧">抓住3诀窍 Hold住小儿发烧</a></dd>
+
+		</dl>
+		<dl>
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/育儿知识">育儿知识</a></h4>
+					<a class="groupimg"  href="http://news.ci123.com/article/84699.html" title="产后避孕妙招拿走不谢"><img src="http://news.ci123.com/uploads/20160226/upload_81kwL_765dc210384e6574" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/84699.html" title="产后避孕妙招拿走不谢">产后避孕妙招拿走不谢</a></h3>
+					<p>在日常生活中，我们经常可以接触到各种不同的避孕方法，当然，有些方法避孕率比较高，有些不靠谱的避孕方法则容易导致意外怀孕的出现。</p>
+				</div>
+			</dt>
+
+				<dd><a href="http://news.ci123.com/article/85344.html" title="养胎不长肉 美食大盘点">养胎不长肉 美食大盘点</a></dd>
+				<dd><a href="http://news.ci123.com/article/85447.html" title="解惑：没法亲喂宝宝怎么办？">解惑：没法亲喂宝宝怎么办？</a></dd>
+
+		</dl>
+		<dl>
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/智力开发">智力开发</a></h4>
+					<a class="groupimg" href="http://news.ci123.com/article/85695.html" title="宝宝吃对肉日后更精明"><img src="http://news.ci123.com/uploads/20160229/upload_j0dGW_3dd6133494222293" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85695.html" title="宝宝吃对肉日后更精明">宝宝吃对肉日后更精明</a></h3>
+					<p>有的家长会用各种方法来让娃变得聪明，但是其实有些方法很简单，比如可以直接通过饮食来増智。有时候，选对肉就能帮助孩子变得更加聪明。</p>
+				</div>
+			</dt>
+
+				<dd><a href="http://news.ci123.com/article/85429.html" title="宝贝增智膳食经 5营养不能少">宝贝增智膳食经 5营养不能少</a></dd>
+				<dd><a href="http://news.ci123.com/article/84984.html" title="妈妈看过来！一辈子仅一次的智力发育黄金期">妈妈看过来！一辈子仅一次的智力发育黄金期</a></dd>
+
+		</dl>
+		<dl class="npd">
+			<dt class="clearfix">
+				<div class="l">
+					<h4><a href="http://news.ci123.com/article/tag/早期教育">早期教育</a></h4>
+					<a class="groupimg"  href="http://news.ci123.com/article/85592.html" title="教会宝贝4品质旺运一生"><img src="http://news.ci123.com/uploads/20160226/upload_AvK4A_db5a832e58f30817" width="80" height="80" /></a>
+				</div>
+				<div class="r">
+					<h3><a href="http://news.ci123.com/article/85592.html" title="教会宝贝4品质旺运一生">教会宝贝4品质旺运一生</a></h3>
+					<p>每个家长都希望孩子取得成就，然而，这跟家长的教育是息息相关的。孩子的学习成绩固然重要，但是有一些道理孩子懂得了便会受益终身。</p>
+				</div>
+			</dt>
+
+				<dd><a href="http://news.ci123.com/article/85339.html" title="小校霸常有的7个特征">小校霸常有的7个特征</a></dd>
+				<dd><a href="http://news.ci123.com/article/85454.html" title="开学后 辅助孩子作业指南">开学后 辅助孩子作业指南</a></dd>
+
+		</dl>
+	</div><!--/fl-->
+</div><!--/olmother-->
+<div class="video">
+	<h3>精彩视频</h3>
+	<ul>
+			<li><div><a href="http://news.ci123.com/article/84712.html"><s></s></a><a href="http://news.ci123.com/article/84712.html" title="光脚踩到翔 洁癖娃绝望了"><img src="http://news.ci123.com/uploads/20160225/upload_ySM8P_f66fc401079813cc" width="149" height="105" /></a></div><a href="http://news.ci123.com/article/84712.html">光脚踩到翔 洁癖娃绝望了</a></li>
+		
+			<li><div><a href="http://news.ci123.com/article/85310.html"><s></s></a><a href="http://news.ci123.com/article/85310.html" title="惊！法小扒手月收入数十万"><img src="http://news.ci123.com/uploads/20160226/upload_DZ3bY_d3940781a15e38ee" width="149" height="105" /></a></div><a href="http://news.ci123.com/article/85310.html">惊！法小扒手月收入数十万</a></li>
+		
+			<li><div><a href="http://news.ci123.com/article/85543.html"><s></s></a><a href="http://news.ci123.com/article/85543.html" title="懒上天 爸爸把女儿当狗养"><img src="http://news.ci123.com/uploads/20160229/upload_qECwe_6f8787a410e00caa" width="149" height="105" /></a></div><a href="http://news.ci123.com/article/85543.html">懒上天 爸爸把女儿当狗养</a></li>
+		
+			<li><div><a href="http://news.ci123.com/article/84852.html"><s></s></a><a href="http://news.ci123.com/article/84852.html" title="简单5步 宝宝长牙不再烦恼"><img src="http://news.ci123.com/uploads/20160224/upload_GHbkA_df0dd1e42c8f7d70" width="149" height="105" /></a></div><a href="http://news.ci123.com/article/84852.html">简单5步 宝宝长牙不再烦恼</a></li>
+		
+		</ul>
+</div><!--/video-->			
+		</div><!--/left-->
+		<div class="right">
+			
+<dl>
+	<dt><h3>文章排行</h3></dt>
+	<dd><span>1</span><a href="http://news.ci123.com/article/85638.html">用对避孕套 “意外”不会来</a></dd><dd><span>2</span><a href="http://news.ci123.com/article/84567.html">男童欲穿过世父亲军装 叔叔圆梦</a></dd><dd><span>3</span><a href="http://news.ci123.com/article/85545.html">有了娃 你却变得如此讨厌</a></dd><dd><span>4</span><a href="http://news.ci123.com/article/85543.html">这个爸爸懒上天！把女儿当狗养</a></dd><dd><span>5</span><a href="http://news.ci123.com/article/85693.html">别再这么做啦！7个动作很伤娃</a></dd><dd><span>6</span><a href="http://news.ci123.com/article/85695.html">吃对肉 宝宝自然精明能干</a></dd><dd><span>7</span><a href="http://news.ci123.com/article/85661.html">16月幼儿被控谋杀 这锅宝宝可不背</a></dd><dd><span>8</span><a href="http://news.ci123.com/article/85703.html">正月宝宝不宜剪头 你真信了？</a></dd>	
+</dl>
+
+          
+<div class="picnews">
+	<h3>图片新闻</h3>
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/80435.html" title="爸爸的衬衫让娃穿才潮"><img src="http://news.ci123.com/uploads/20160229/upload_FriKS_482d48a410c663f2" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/80435.html">爸爸的衬衫让娃穿才潮</a></h5>
+			<p>我们的小公举也可以穿起爸爸的衬衫，只要稍稍改一下，好看又有爱。</p>
+		</div>
+	</div><!--/news-->
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/79177.html" title="明星辣妈の产后速瘦术"><img src="http://news.ci123.com/uploads/20160222/upload_tLJUl_94a7324973cabfd6" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/79177.html">明星辣妈の产后速瘦术</a></h5>
+			<p>好身材可不是轻松得来，不信？咱们就来看看明星辣妈们有多拼。</p>
+		</div>
+	</div><!--/news-->
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/84146.html" title="带孩子逛街的奇葩场景"><img src="http://news.ci123.com/uploads/20160223/upload_iJSZS_284e30e1cd9cbfac" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/84146.html">带孩子逛街的奇葩场景</a></h5>
+			<p>不放心孩子自己在家，便把带娃带出来逛，于是妈妈的梦魇也开始了。</p>
+		</div>
+	</div><!--/news-->
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/84688.html" title="父爱是一缕无言的温柔"><img src="http://news.ci123.com/uploads/20160224/upload_bQRyP_6c54d4e482f5400f" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/84688.html">父爱是一缕无言的温柔</a></h5>
+			<p>与麻麻不同，爸比往往不爱说，但父爱却常在细微处流露出来，温暖人心。</p>
+		</div>
+	</div><!--/news-->
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/84910.html" title="这个BB隔10周出生两次"><img src="http://news.ci123.com/uploads/20160225/upload_tdaZV_bcb3622a3f7e4fb4" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/84910.html">这个BB隔10周出生两次</a></h5>
+			<p>美国一位女性克丽在丈夫和孩子陪同下去产检，却发现胎儿长了瘤。</p>
+		</div>
+	</div><!--/news-->
+		<div class="news">
+		<div class="l"><a href="http://news.ci123.com/article/83817.html" title="日本妈妈虐待晚归女儿"><img src="http://news.ci123.com/uploads/20160226/upload_amCKV_8489c8004d428b30" width="80" height="80" /></a></div>
+		<div class="r">
+			<h5><a href="http://news.ci123.com/article/83817.html">日本妈妈虐待晚归女儿</a></h5>
+			<p>一位日本姑娘仅仅晚归几分钟，她的麻麻竟然残忍做出灰常虐的举动。</p>
+		</div>
+	</div><!--/news-->
+	</div>
+		</div><!--/right-->
+	</div><!--/total-->
+</div><!--/index-->
+<script type="text/javascript">
+	$(function() {
+		
+		$(".right dl dd:eq(0)").addClass("on");
+		$(".right dl dd:eq(1)").addClass("on");
+		$(".right dl dd:eq(2)").addClass("on");
+		$(".right dl dd:eq(7)").addClass("nbd");
+
+
+		});
+</script>
+
+<div class="ci_weixin" id="ci_weixin" style="z-index: 1; right: 30px;">
+<img src="http://news.ci123.com/images/erweima.gif" width="96" height="110">
+<a href="javascript:void(0)" title="关闭" onclick="this.parentNode.style.display='none';return false;" target="_self">关闭</a>
+</div>
+
+<div id="footer" class="clearfix">
+	<div>
+		<ul>
+			<li><a href="http://www.ci123.com/about_ci123.html" title="AboutCi123">关于我们</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/intro.html" title="机构简介">机构简介</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/2008/ad/" title="广告服务">广告服务</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/contact.html" title="联系方式">联系方式</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/hr.html" title="招聘信息">招聘信息</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/terms.html" title="服务条款">服务条款</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/privacy.html" title="隐私保护">隐私保护</a></li>
+			<li>|</li>
+			<li><a href="http://user.ci123.com/account/NewAccount/" title="会员注册">会员注册</a></li> 
+			<li>|</li>
+			<li><a href="http://help.ci123.com/" title="网站帮助">网站帮助</a></li>
+			<li>|</li>
+			<li><a href="http://www.ci123.com/sitemap.html" title="站点地图">网站地图</a></li> 
+			<li>|</li>
+			<li><a href="http://www.ci123.com/friendlink.html" title="友情链接">友情链接</a></li>
+		</ul>
+	</div>
+	<p><a href="http://www.miibeian.gov.cn/" title="苏ICP证B2-20100190">苏ICP证B2-20100190</a>　<a href="http://www.miibeian.gov.cn/" title="苏ICP备09013109号">苏ICP备09013109号</a>　苏公网安备320102201001号</p>
+	<p>© 2005-2016 育儿网 版权所有　All Rights Reserved</p>
+</div>
+<div style="display:none">
+<script src="http://s20.cnzz.com/stat.php?id=4703098&web_id=4703098" language="JavaScript"></script>
+<iframe width="0" height="0" src="http://www.ci123.com/js_revsci.html" style="display:none;"></iframe>
+</div>
+</body>
+</html>
+

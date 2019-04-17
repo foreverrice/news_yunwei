@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <sitemapindex>
+     <sitemap>
+         <loc>http://news.ci123.com/sgxml/sg1.xml</loc>
+         <!-- 必填,识别Sitemap的位置 -->
+         <lastmod>2017-05-19</lastmod>
+         <!-- 选填,该链接的最后更新时间 -->
+      </sitemap>
+      <!-- 另一条数据 -->
+   </sitemapindex>
